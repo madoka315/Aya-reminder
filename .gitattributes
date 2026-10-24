@@ -1,0 +1,4 @@
+# 统一 LF：本仓库在 Windows 服务器上部署，Windows 侧编辑易引入 CRLF
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
